@@ -19,5 +19,5 @@ module.exports = {
                 highWaterMark: 1 << 25
             }
         }
-    }
+    }     
 };
